@@ -1,0 +1,16 @@
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\Telecom_Zaharkin.exe.config
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\Telecom_Zaharkin.exe
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\Telecom_Zaharkin.pdb
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\App.g.cs
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin_MarkupCompile.cache
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin_MarkupCompile.lref
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\MainWindow.baml
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.g.resources
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.Properties.Resources.resources
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.exe
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.pdb

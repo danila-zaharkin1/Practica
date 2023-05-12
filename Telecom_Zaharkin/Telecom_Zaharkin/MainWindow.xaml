@@ -5,8 +5,119 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Telecom_Zaharkin"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <WrapPanel
+            Grid.Row="0"
+            HorizontalAlignment="Right">
+            <Image
+                Source="../images/Logo.jpg"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Center"
+            Orientation="Vertical"
+            Margin="26, 0 ,0 ,0">
+            <Label
+                FontSize="18px"
+                Content = "Телеком Нева Связь"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="1"
+            Orientation="Horizontal"
+            Margin="130, 0, 0, 0">
+            <Label
+                FontSize="14px"
+                Content="Номер"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="1"
+            HorizontalAlignment="Center"
+            Orientation="Horizontal"
+            Margin="50, 0, 0, 0">
+            <TextBox
+                Name="Number"
+                FontSize="16"
+                Height="28"
+                Width="180"
+                BorderBrush="#9E9E9E"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="1"
+            Orientation="Horizontal"
+            Margin="130, 36, 0, 0">
+            <Label
+                FontSize="14px"
+                Content="Пароль"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="1"
+            HorizontalAlignment="Center"
+            Orientation="Horizontal"
+            Margin="50, 36, 0, 0">
+            <TextBox
+                Name="Password"
+                FontSize="16"
+                Height="28"
+                Width="180"
+                BorderBrush="#9E9E9E"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="1"
+            Orientation="Horizontal"
+            Margin="130, 72, 0, 0">
+            <Label
+                FontSize="14px"
+                Content="Код"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="1"
+            HorizontalAlignment="Center"
+            Orientation="Horizontal"
+            Margin="0, 72, 10, 0">
+            <TextBox
+                Name="Code"
+                FontSize="16"
+                Height="28"
+                Width="120"
+                BorderBrush="#9E9E9E"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="1"
+            Orientation="Horizontal"
+            HorizontalAlignment="Center"
+            Margin="150, 74, 0, 0">
+            <Image
+                Source="../images/Loading.jpg"
+                Height="24px"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="2"
+            HorizontalAlignment="Center"
+            Orientation="Horizontal"
+            Margin="0, 68, 60, 0">
+            <Button
+                Name="Cancel"
+                FontSize="16px"
+                Content="Отмена"
+                Width="70px"/>
+        </WrapPanel>
+        <WrapPanel
+            Grid.Row="2"
+            HorizontalAlignment="Center"
+            Orientation="Horizontal"
+            Margin="120, 68, 0, 0">
+            <Button
+                Name="Enter"
+                FontSize="16px"
+                Content="Вход"
+                Width="70px"/>
+        </WrapPanel>
     </Grid>
 </Window>
