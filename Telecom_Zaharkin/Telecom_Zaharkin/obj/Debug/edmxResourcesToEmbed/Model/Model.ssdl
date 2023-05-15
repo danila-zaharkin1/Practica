@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище EmployeesModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="enter">
+    <Key>
+      <PropertyRef Name="Number" />
+    </Key>
+    <Property Name="Number" Type="nchar" MaxLength="11" Nullable="false" />
+    <Property Name="Password" Type="nchar" MaxLength="8" />
+    <Property Name="Role" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Хранилище EmployeesModelContainer">
+    <EntitySet Name="enter" EntityType="Self.enter" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -115,6 +115,7 @@
             Margin="120, 68, 0, 0">
             <Button
                 Name="Enter"
+                Click="EnterClick"
                 FontSize="16px"
                 Content="Вход"
                 Width="70px"/>

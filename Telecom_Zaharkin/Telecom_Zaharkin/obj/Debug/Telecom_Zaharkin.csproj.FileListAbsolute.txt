@@ -14,3 +14,10 @@ C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Teleco
 C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.csproj.CoreCompileInputs.cache
 C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.exe
 C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.pdb
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin_Content.g.cs
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\EntityFramework.dll
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\EntityFramework.xml
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Home\Desktop\ПМ.03\Telecom_Zaharkin\Telecom_Zaharkin\obj\Debug\Telecom_Zaharkin.csproj.CopyComplete
