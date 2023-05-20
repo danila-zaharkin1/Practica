@@ -1,0 +1,16 @@
+C:\Users\denis\Desktop\Практика\Billing\Billing\bin\Debug\Billing.exe.config
+C:\Users\denis\Desktop\Практика\Billing\Billing\bin\Debug\Billing.exe
+C:\Users\denis\Desktop\Практика\Billing\Billing\bin\Debug\Billing.pdb
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\MainWindow.g.cs
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\App.g.cs
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing_MarkupCompile.cache
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing_MarkupCompile.lref
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\MainWindow.baml
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.g.resources
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.exe
+C:\Users\denis\Desktop\Практика\Billing\Billing\obj\Debug\Billing.pdb
